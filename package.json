@@ -1,6 +1,6 @@
 {
-  "name": "@fx/kaspa",
-  "version": "1.0.3.1",
+  "name": "@f5i23q999d/kaspa",
+  "version": "1.0.4",
   "description": "",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
