@@ -1,6 +1,6 @@
 {
   "name": "@f5i23q999d/kaspa",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
