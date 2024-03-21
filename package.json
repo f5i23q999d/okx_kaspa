@@ -2,8 +2,8 @@
   "name": "@f5i23q999d/kaspa",
   "version": "1.0.4",
   "description": "",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
   "scripts": {
     "build": "run-s clean build:main",
     "build:main": "tsc -p tsconfig.json",
