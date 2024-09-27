@@ -1,5 +1,5 @@
 {
-  "name": "@f5i23q999d/kaspa",
+  "name": "fx-kaspa-lib",
   "version": "1.0.7",
   "description": "",
   "main": "./dist/src/index.js",
@@ -9,10 +9,6 @@
     "build:main": "tsc -p tsconfig.json",
     "clean": "rimraf dist tsconfig.tsbuildinfo",
     "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/f5i23q999d/okx_kaspa"
   },
   "keywords": [],
   "author": "okx",
